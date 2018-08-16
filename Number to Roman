@@ -17,3 +17,5 @@ def num2roman(num):
 # test 
 >>> num2roman(2242)
 'MMCCXLII'
+
+# http://pythontutor.com/visualize.html#mode=display
